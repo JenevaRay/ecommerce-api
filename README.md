@@ -1,4 +1,4 @@
-![License: MIT](https://img.shields.io/badge/License:_mit-grey.svg?style=plastic&color=blue)
+![License: MIT](https://img.shields.io/badge/License:_MIT-grey.svg?style=plastic&color=blue)
 
 # ecommerce-api
 ## Description
@@ -23,7 +23,7 @@ This is the backend to an ecommerce platform that integrate things like categori
 - `node server.js`
 
 ## Usage
-- Point Insomnia to the server to run API queries against it.
+- Point Insomnia to the server (example URL is 127.0.0.1:3001) to run API queries against it.
 
 [![Video of software in use.](https://drive.google.com/file/d/1E8ZZG61G3SWgCJjiKte4rkqAzsEhktRL/view?usp=drive_link)](https://drive.google.com/file/d/1E8ZZG61G3SWgCJjiKte4rkqAzsEhktRL/view?usp=drive_link)
 ## Credits
@@ -36,10 +36,6 @@ https://opensource.org/licenses/mit
 Added routes which were not specified in the database, and extensions to said routes (including deep additions of tags-to-products, products-to-tags, and more!)
 ## Contributing
 Email me at JenevaRay@gmail.com with a Git push request.
-## Tests
-- `test` (which runs `npm run jestCoverage`), is for: It doesn't.
-- `jestCoverage` (which runs `jest --coverage`), is for: 
-
 ## Questions
 My GitHub profile: https://github.com/JenevaRay
 
