@@ -1,6 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License:_MIT-grey.svg?style=plastic&color=blue)
 
-# ecommerce-api
+# Ecommerce-API
 ## Description
 This is the backend to an ecommerce platform that integrate things like categorization, inventory, and tags for search.
 - I learned how to write good models and queries to match said models.
