@@ -12,7 +12,6 @@ This is the backend to an ecommerce platform that integrate things like categori
 - [License](#license)
 - [Features](#features)
 - [Contribute](#contribute)
-- [Tests](#tests)
 
 ## Installation
 - `git clone git@github.com:JenevaRay/ecommerce-api.git`
