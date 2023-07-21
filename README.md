@@ -24,7 +24,7 @@ This is the backend to an ecommerce platform that integrate things like categori
 ## Usage
 - Point Insomnia to the server (example URL is 127.0.0.1:3001) to run API queries against it.
 
-[![Video of software in use.](https://drive.google.com/file/d/1E8ZZG61G3SWgCJjiKte4rkqAzsEhktRL/view?usp=drive_link)](https://drive.google.com/file/d/1E8ZZG61G3SWgCJjiKte4rkqAzsEhktRL/view?usp=drive_link)
+![Video of software in use](https://drive.google.com/file/d/1xMmICnTqxgPkENKx1LbtPp_ykR8JAmbL/view?usp=drive_link)
 ## Credits
 - Vincent Pan helped explain sequelize models.  Thank you!
 ## License
